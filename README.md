@@ -25,6 +25,7 @@ In this exercise, you will:
 
    <a id="copy-exercise" href="https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public">
       <img src="https://img.shields.io/badge/📠_Copy_Exercise-008000" height="25pt"/>
+
    </a>
 
 2. In the new tab, most of the prompts will automatically fill in for you.
@@ -36,6 +37,7 @@ In this exercise, you will:
    - The **Copy Exercise** button will deactivate, changing to gray.
    - The **Start Exercise** button will activate, changing to green.
    - You will likely need to refresh the page.
+
 
 4. Click **Start Exercise**. Follow the step-by-step instructions and feedback will be provided as you progress.
 
